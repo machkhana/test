@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13b0fa57-316a-4ccd-b5e1-feada9eb4378" name="Default Changelist" comment="" />
+    <list default="true" id="13b0fa57-316a-4ccd-b5e1-feada9eb4378" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/class/class.main.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/class.main.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WUOCmbCij2mOLxIAOF6phag9es" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -52,10 +58,22 @@
       <workItem from="1579200583094" duration="14471000" />
       <workItem from="1579269191098" duration="5203000" />
       <workItem from="1579275363336" duration="8849000" />
+      <workItem from="1579286908776" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

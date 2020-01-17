@@ -48,10 +48,10 @@ class Info{
     }
     public function delete($id){
         global $sql;
-        $res=$sql->query("select * from news where id='$id'")->fetch_assoc();// select image from info
-        $sql->query("delete from news where id='$id'");// remove image file from DB
-        if($res == 1){//check
-            unlink('images/'.$res['image']);//remove file from DIR
+        $res=$sql->query("select * from news where id='$id'")->fetch_assoc();// სურათის დასელექტება
+        $sql->query("delete from news where id='$id'");
+        if($res == 1){//შეამოწმებს თუ არის ჩანაწერი და შესარულებს
+            unlink('images/'.$res['image']);//საქაღალდიდან წაშლის
         }
     }
 }
