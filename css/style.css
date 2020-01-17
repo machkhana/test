@@ -1,0 +1,38 @@
+.authform{
+    margin:15% auto;
+    width:600px;
+    text-align: center;
+}
+.inputfomr{
+    border: 1px solid#cccccc;
+    border-radius:3px;
+    padding:3px 8px;
+    margin:7px;
+}
+.inputfomr:focus{
+    border:1px solid green;
+}
+.input_div{
+    max-width: 100%;
+}
+.loginbutton{
+    border: none;
+    border-radius:3px;
+    background-color: green;
+    color:#fff;
+    padding:5px 8px;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color:#000000;
+}
+.mt-1{
+    margin-top: 10px;
+}
+.mt-2{
+    margin-top:20px; !important;
+}
+.mt-3{
+    margin-top:30px; !important;
+}
